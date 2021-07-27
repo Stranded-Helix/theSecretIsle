@@ -1,0 +1,14 @@
+.mainFont {
+    color: white;
+    font-weight: 500;
+    font-family: 'Comfortaa';
+    font-size: 500%;
+}
+.spinner-grow {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    height: 25vh !important;
+    width: 25vw  !important;
+    animation-duration: 1.5s !important;
+}
+

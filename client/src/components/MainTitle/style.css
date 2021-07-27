@@ -1,0 +1,16 @@
+.mainFont {
+    color: white;
+    font-weight: 500;
+    font-family: 'Comfortaa';
+    font-size: 500%;
+    /* margin: auto;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+}
+
+.btnDiv{
+    margin:0 auto;
+}

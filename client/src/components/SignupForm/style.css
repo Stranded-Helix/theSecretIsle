@@ -1,0 +1,41 @@
+.btn-light {
+    background-color: #eeeeee !important;
+    color: #595959 !important;
+    border-radius: 20px !important;
+    font-weight: 600 !important;
+}
+
+.btn {
+    padding: 4px 0px 4px 0px !important;
+}
+
+.input-field {
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #eeeeee;
+    border-radius: 0;
+    outline: none;
+    height: 3rem;
+    font-size: 25px;
+    margin: 0px 0px 8px 0px;
+    padding: 0;
+    color: #eeeeee;
+    width: 100%;
+}
+
+.input-field::placeholder {
+    color: #eeeeee;
+}
+
+#login-text {
+    color: white;
+}
+
+.signup {
+    color: #ffd966;
+    font-weight: 400;
+}
+
+.signup:hover {
+    color: #ffe9a7;
+}

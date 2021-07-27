@@ -1,0 +1,6 @@
+.timerblock {
+    height: 8px;
+    background-color: goldenrod;
+    border: 1px solid black;
+    border-radius: 2px;
+}

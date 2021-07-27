@@ -1,0 +1,18 @@
+.blur {
+    filter: blur(5px);
+}
+.darken {
+    filter: brightness(50%);
+}
+
+.background {
+    background-image: url('../../images/Pirate\ Island.jpg');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh!important
+}
